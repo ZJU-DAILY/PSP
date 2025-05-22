@@ -2,6 +2,7 @@
 
 This repository contains the source code for our paper: **Maximum Inner Product is Query-Scaled Nearest Neighbor** (VLDB25).
 
+**If you're interested, you can also check out our further extended work: [SIGIR2025 MAG](https://github.com/ZJU-DAILY/MAG)**
 ## 1 Abstract
 
 This paper presents a novel theoretical framework that equates MIPS with NNS without requiring space transformation, thereby allowing us to leverage advanced graph-based indices for NNS and efficient edge pruning strategies, significantly reducing unnecessary computations. 
