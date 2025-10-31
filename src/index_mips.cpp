@@ -586,7 +586,7 @@ void IndexMips::Build(size_t n, const float *data,
     }
   }
 
-  DFS_expand(parameters);
+  // DFS_expand(parameters);
 
 
   unsigned max, min, avg;
